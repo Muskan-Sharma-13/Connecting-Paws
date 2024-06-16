@@ -1,0 +1,42 @@
+[
+    {
+      "name": "Sophie",
+      "status": "Undergoing Treatment",
+      "date_of_admission": "April 8, 2024 2:38pm",
+      "species": "dog",
+      "gender": "female",
+      "breed": "indie",
+      "approx_age_in_years": 0.35,
+      "color": "brown",
+      "current_location": "amtm hospital",
+      "case_history": "Sophie was found injured in a roadside accident and brought to the hospital for treatment.",
+      "updates": "no updates yet."
+    },
+    {
+      "name": "Luna",
+      "status": "Undergoing Treatment",
+      "date_of_admission": "April 8, 2024 2:38pm",
+      "species": "dog",
+      "gender": "female",
+      "breed": "indie",
+      "approx_age_in_years": 0.35,
+      "color": "brown",
+      "current_location": "amtm hospital",
+      "case_history": "Luna was rescued from a fire accident and suffered from smoke inhalation. She is currently receiving treatment.",
+      "updates": "no updates yet."
+    },
+    {
+      "name": "Dobby",
+      "status": "Undergoing Treatment",
+      "date_of_admission": "April 8, 2024 2:38pm",
+      "species": "dog",
+      "gender": "female",
+      "breed": "indie",
+      "approx_age_in_years": 0.35,
+      "color": "brown",
+      "current_location": "amtm hospital",
+      "case_history": "Dobby was found abandoned and malnourished. He is receiving medical care and attention.",
+      "updates": "no updates yet."
+    }
+  ]
+  

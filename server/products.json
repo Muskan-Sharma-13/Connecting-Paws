@@ -1,0 +1,51 @@
+[
+      {
+        "productName": "Poodle -Dog",
+        "category": "Dog",
+        "ngo": "Animal Matter To Me (AMTM) - Animal Hospital",
+        "image": "imagepet/poodle.png"
+      },
+      {
+        "productName": "Street cat",
+        "category": "Cats",
+        "ngo": "Animal Matter To Me (AMTM) - Animal Hospital",
+        "image": "imagepet/streetcat.png"
+      },
+      {
+        "productName": "Indian Ringneck Parakeet(Parrot) -Bird",
+        "category": "Birds",
+        "ngo": "MAA (Medical Aid For Animals Birds)",
+        "image": "imagepet/parrot.png"
+      },
+      {
+        "productName": "Bombay Cat",
+        "category": "Cats",
+        "ngo": "Animal kingdom Welfare Foundation",
+        "image": "imagepet/bcat.png"
+      },
+      {
+        "productName": "Netherland Dwarf Rabbit",
+        "category": "Rabbits",
+        "ngo": "Helping Hands Animal Welfare Foundation",
+        "image": "imagepet/rabbit.png"
+      },
+      {
+        "productName": "Street Dog",
+        "category": "Dogs",
+        "ngo": "Universal Animal Welfare Society l Dog NGO in Malad",
+        "image": "imagepet/streetdog.png"
+      },
+      {
+        "productName": "House Sparrow - Bird",
+        "category": "Birds",
+        "ngo": "Birds Animals Serpents Saviours Org",
+        "image": "imagepet/sparrow.png"
+      },
+      {
+        "productName": "German Shepherd -Dog",
+        "category": "Dogs",
+        "ngo": "Raksha Animal Welfare Center",
+        "image": "imagepet/dog.png"
+      }
+    ]
+  
